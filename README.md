@@ -2,6 +2,8 @@
 ---
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Skystapper/Newuploadingbot)
 
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy)
+
 Telegram RoBot to Upload Links.
 
 **Features**:
