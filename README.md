@@ -4,6 +4,8 @@
 
 [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy)
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?https://github.com/Skystapper/Newuploadingbot)
+
 Telegram RoBot to Upload Links.
 
 **Features**:
