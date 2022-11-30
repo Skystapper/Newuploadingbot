@@ -4,7 +4,7 @@
 
 [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy)
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?https://app.koyeb.com/deploy?type=git&repository=github.com/skystapper/newuploadingbot&branch=master&name=Newuploadingbot&run_command=python3%20bot.py)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?https://app.koyeb.com/deploy?type=git&repository=github.com/skystapper/newuploadingbot&branch=master&name=Newuploadingbot&run_command=python3%20bot.py&env[API_HASH]=a30a033169425171b731104554f7a575&env[APP_ID]=9261804&env[AUTH_USERS]=2050656439%201568072396&env[CHUNK_SIZE]=128&env[DEF_THUMB_NAIL_VID_S]=https://i.ibb.co/KVmcLJ3/20221007-141445.jpg&env[HTTP_PROXY]=&env[TG_BOT_TOKEN]=5013154971:AAGPFddpN3okmYhv6MvOXre6yOmhBvXuzuM&env[WEBHOOK]=ANYTHING)
 
 Telegram RoBot to Upload Links.
 
