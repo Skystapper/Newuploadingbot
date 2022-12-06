@@ -29,7 +29,7 @@ class Config(object):
     # watermark file
     DEF_WATER_MARK_FILE = ""
     #port number : only uncomment if deploying on koyeb
-    #PORT = os.environ.get("PORT", "8080")
+    PORT = os.environ.get("PORT", "8080")
 
 
 
