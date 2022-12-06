@@ -29,6 +29,7 @@ Telegram RoBot to Upload Links.
 
 ## Credits, and Thanks to:
 
+* [Skystapper](https://github.com/Skystapper) to keep this repo up to date
 * [@TGExplore](https://t.me/ViruZs) for his [TG-URL-Uploader](https://github.com/TGExplore/TG-URL-Uploader)
 * [@SpEcHlDe](https://t.me/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
 * [Dan Tès](https://t.me/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
